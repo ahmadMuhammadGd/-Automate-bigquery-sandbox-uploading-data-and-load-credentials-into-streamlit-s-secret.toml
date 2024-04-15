@@ -1,6 +1,6 @@
 # Automate-BigQuery-Sandbox-Uploading-Data-and-Load-Credentials-into-Streamlit's-secrets.toml
 
-This repository was prepared to automate loading data to BigQuery and Bigquery sandbox, and generating `secrets.toml` for experimental and educational purposes. All you need is to get your credentials and add them to the `credentials_folder`.
+This repository was prepared to automate loading data to BigQuery and Bigquery sandbox, and generating `secrets.toml` for experimental and educational purposes. All you need is to get your JSON credentials and add them to the `credentials_folder`.
 
 # credentials.py
 
